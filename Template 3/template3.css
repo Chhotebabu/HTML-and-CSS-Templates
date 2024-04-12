@@ -1,0 +1,327 @@
+*{
+   padding: 0px;
+   margin: 0px;
+   box-sizing: border-box;
+}
+.head{
+    background-color: aliceblue;
+    width: auto;
+    height: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+.b1{
+    margin: 20px;
+    margin-left: 20px
+}
+.b2{
+    margin-left: 700px;
+}
+.b3{
+    margin-left: 70px;
+}
+.b4{
+    margin-left: 80px;
+}
+
+.b5{
+    position: absolute;
+    left: 40%;
+    top: 85%;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    
+}
+
+.b6{
+    font-size: 36px;
+    color: white;
+    background-color: rgba(3, 2, 2, 0.668); 
+    padding: 20px;
+    
+}
+.b7{
+    font-size:36px ;
+    color: white;
+}
+
+.b8>p{
+    font-size: 25px;
+    margin-left: 20px;
+
+}
+.b9{
+    position: relative;
+}
+
+.b11{
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    background-color: black;
+    color: aliceblue;
+    padding: 10px;  
+}
+
+.b12{
+    position: relative;
+}
+.b13{
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    background-color: black;
+    color: aliceblue;
+    padding: 10px;
+}
+
+.b14{
+    position: relative;
+}
+.b15{
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    background-color: black;
+    color: aliceblue;
+    padding: 10px;
+}
+
+.b16{
+    position: relative;
+}
+
+.b17{
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    background-color: black;
+    color: aliceblue;
+    padding: 10px;
+    
+}
+
+.b9,.b12,.b14,.b16{
+    display: inline-block;
+    margin: 10px;
+}
+
+.b18{
+    position: relative;
+}
+
+.b19{
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    background-color: black;
+    color: aliceblue;
+    padding: 10px;
+    
+}
+
+.b20{
+    position: relative;
+}
+
+.b21{
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    background-color: black;
+    color: aliceblue;
+    padding: 10px;
+    
+}
+.b22{
+    position: relative;
+}
+
+.b23{
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    background-color: black;
+    color: aliceblue;
+    padding: 10px;
+    
+}
+.b24{
+    position: relative;
+}
+
+.b25{
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    background-color: black;
+    color: aliceblue;
+    padding: 10px;
+    
+}
+
+.b18,.b20,.b22,.b24{
+    display: inline-block;
+    margin: 10px;
+}
+
+.b26{
+    font-size: 30px;
+    color: rgb(8, 7, 7);
+    margin-left: 20px;
+}
+
+.b27{
+   text-align: left;
+   padding: 20px;
+}
+
+.b28,.b29,.b30,.b31{
+    display: inline-block;
+    margin: 10px;
+}
+
+.b32{
+    width: 275px;
+    height: 200px;
+}
+.b33{
+    font-size: 20px;
+}
+.b34{
+    font-size: 15px;
+    color: gray;
+
+}
+
+.b36{
+    text-align: center;
+    font-size: 20px;
+    background-color: gray;
+}
+
+
+
+.b37{
+    width: 275px;
+    height: 200px;
+}
+.b38{
+    font-size: 20px;
+}
+.b39{
+    font-size: 15px;
+    color: gray;
+
+}
+
+.b41{
+    text-align: center;
+    font-size: 20px;
+    background-color: gray;
+}
+
+
+
+
+.b42{
+    width: 275px;
+    height: 200px;
+}
+.b43{
+    font-size: 20px;
+}
+.b44{
+    font-size: 15px;
+    color: gray;
+
+}
+
+.b46{
+    text-align: center;
+    font-size: 20px;
+    background-color: gray;
+}
+
+
+.b47{
+    width: 275px;
+    height: 200px;
+}
+.b48{
+    font-size: 20px;
+}
+.b49{
+    font-size: 15px;
+    color: gray;
+
+}
+
+.b51{
+    text-align: center;
+    font-size: 20px;
+    background-color: gray;
+}
+
+
+
+.b32,.b37,.b42,.b47{
+    display: inline-block;
+    margin: 10px;
+}
+
+.b52{
+    font-size: 20px;
+    margin-left: 10px;
+}
+
+.b53{
+    margin-left: 10px;
+}
+
+.b54{
+    padding-right: 1000px;
+    padding-bottom: 20px;
+    margin-left: 5px;
+}
+
+.b55{
+    padding-right: 1000px;
+    padding-bottom: 20px;
+    margin-left: 5px;
+}
+
+.b56{
+    padding-right: 1000px;
+    padding-bottom: 20px;
+    margin-left: 5px;
+}
+
+.b57{
+    padding-right: 1000px;
+    padding-bottom: 20px;
+    margin-left: 5px;
+}
+
+.b58{
+    padding-right: 20px;
+    padding-top: 5px;
+    background-color: black;
+    
+    color: aliceblue;
+    font-size: medium;
+    margin-left: 5px;
+    
+}
+
+.b59{
+    background-color: black;
+    padding-bottom: 50px;
+}
+
+.b60{
+    color: aliceblue;
+    font-size: 20px;
+    text-align: center;
+}
